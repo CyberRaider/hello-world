@@ -1,5 +1,5 @@
 # hello-world                                                                                                                               
-<b><centre><u>Help achieve universal primary education.<b/><centre/><u/>                                                                                                                                                                                                                                           
+<b><centre><u>Help achieve universal primary education.</u></centre></b>                                                                                                                                                                                                                                           
 Me
 -I am an awesome person to hang out with a real 'Peoples person' if u must.
 -My greatest flaw is that have a fear of public speaking but lickily I am currently working on that.
